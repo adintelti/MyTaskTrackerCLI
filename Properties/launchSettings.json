@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "taskCli": {
+      "commandName": "Project",
+      "commandLineArgs": "list"
+    }
+  }
+}
